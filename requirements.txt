@@ -1,0 +1,14 @@
+google-generativeai 
+langchain-google-genai
+langchain
+textsplitter
+huggingface-hub 
+faiss-cpu 
+sentence-transformers 
+pypdf 
+streamlit
+python-dotenv
+
+# python -m venv venv
+# venv\Scripts\activate     # Windows
+# pip install -r requirements.txt
